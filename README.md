@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./profile-portrait.png" alt="Dien Vu — AI Engineer and Autonomous Agent Builder" width="800" />
+
+### Building autonomous systems. Engineering controlled evolution.
+
+</div>
+<div align="center">
+
 # Hi, I'm Dien Vu 👋
 
 ### AI Engineer · Autonomous Agent Systems · Quantitative Research

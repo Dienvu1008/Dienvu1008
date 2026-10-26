@@ -509,7 +509,7 @@ Wenn du an ähnlichen Problemen arbeitest, würde ich mich freuen, Ideen auszuta
 
 </details>
 
-</details>
+
 
 ---
 

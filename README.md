@@ -6,15 +6,14 @@
 
 <br>
 
-### 🌐 Language / Ngôn ngữ / Sprache
-
-[🇬🇧 **English**](#-english) · [🇻🇳 **Tiếng Việt**](#-tiếng-việt) · [🇩🇪 **Deutsch**](#-deutsch)
-
 </div>
 
 ---
 
-<a id="-english"></a>
+<details open>
+<summary><h3>🇬🇧 English</h3></summary>
+
+<br>
 
 <div align="center">
 
@@ -258,11 +257,266 @@ If you're exploring similar problems, I'd be happy to exchange ideas and learn f
 
 </div>
 
+
 ---
 
-<br><br>
+<details>
+<summary><h3>🇩🇪 Deutsch</h3></summary>
 
-<a id="-tiếng-việt"></a>
+<br>
+
+<div align="center">
+
+# Hallo, ich bin Dien Vu 👋
+
+### AI-Ingenieur · Autonome Agentensysteme · Quantitative Forschung
+
+**Ich baue KI-Systeme, die nicht nur Lösungen generieren — sondern sie entwerfen, verifizieren und verbessern.**
+
+Ich bin ein unabhängiger Entwickler mit Interesse an KI-Engineering, autonomer Softwareentwicklung, maschinellem Lernen, quantitativer Forschung und zuverlässigen intelligenten Systemen.
+
+Mein aktueller Schwerpunkt ist **CodeForge-v2** — ein laufendes Vorhaben zum Aufbau eines gesteuerten autonomen Software-Engineering-Agenten und langfristig eines selbstentwickelnden Engineering-Systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dienvu1008-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008)
+[![AI Agents](https://img.shields.io/badge/Focus-AI%20Agents-6E56CF?style=flat-square)](https://github.com/Dienvu1008/CodeForge-v2)
+[![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-0A9396?style=flat-square)](https://github.com/Dienvu1008/Quant-Trading-2)
+
+</div>
+
+---
+
+## 🧠 Woran ich arbeite
+
+### CodeForge-v2 — Auf dem Weg zu gesteuertem autonomem Engineering
+
+**Mein Hauptprojekt und technischer Schwerpunkt.**
+
+🔗 **[CodeForge-v2 erkunden](https://github.com/Dienvu1008/CodeForge-v2)**
+
+Ich baue einen autonomen Software-Engineering-Agenten, der über reine Codegenerierung hinausgeht.
+
+Die langfristige Vision ist ein System, das Engineering-Aufgaben verstehen, Codebasen untersuchen, Implementierungen planen, Code ändern, Werkzeuge ausführen, Ergebnisse validieren, von Fehlern wiederherstellen und seine eigenen Fähigkeiten unter expliziter Governance verbessern kann.
+
+Die zentrale Idee ist einfach:
+
+> **LLMs schlagen vor. Deterministische Systeme entscheiden über Autorität. Verifikation bestimmt den Abschluss.**
+
+Anstatt sich vollständig auf das Urteil eines LLMs zu verlassen, basiert CodeForge-v2 auf einem deterministischen Governance-Kernel, der kontrolliert, wie der Agent mit seiner Umgebung interagiert.
+
+**Zentrale Engineering-Prinzipien:**
+
+- 🛡️ **Gesteuerte Autonomie** — KI-Fähigkeiten operieren innerhalb klarer Richtlinien, Berechtigungen, Genehmigungsgrenzen und Ausführungsbeschränkungen.
+- ⚙️ **Deterministische Durchsetzung** — Kritische Ausführungsentscheidungen liegen bei Runtime-Komponenten, nicht bei uneingeschränkten modellgenerierten Anweisungen.
+- 🧩 **Aufgaben- und Ausführungsintegrität** — Explizite Task-Graphen, Zustandsübergänge, Checkpoints und kontrollierte Werkzeugausführung.
+- 🔍 **Evidenzbasierte Verifikation** — Unterscheidung zwischen der Erfolgsbehauptung eines Modells und Ergebnissen, die durch tatsächliche Ausführung und Verifikationsbeweise gestützt werden.
+- 📜 **Beobachtbarkeit und Provenienz** — Aufzeichnung von Ausführungsereignissen und relevanten Beweisen zur Unterstützung von Debugging, Auditing und Recovery.
+- 🔄 **Kontrollierte Selbstentwicklung** — Erforschung, wie ein Agent seine eigenen Engineering-Fähigkeiten bewerten und verbessern kann, ohne seine Governance-Grenzen zu überschreiten.
+
+Das langfristige Ziel ist es, CodeForge von einem autonomen Coding-Agenten zu einem **gesteuerten, selbstverbessernden Engineering-System** weiterzuentwickeln.
+
+Selbstentwicklung ist eine Forschungs- und Entwicklungsrichtung, keine Behauptung, dass uneingeschränkte oder vollständig autonome Selbstverbesserung bereits erreicht wurde.
+
+---
+
+## 🔬 Meine Engineering-Philosophie
+
+Mich interessiert besonders eine grundlegende Frage:
+
+**Wie können wir KI-Agenten fähiger machen, ohne sie weniger kontrollierbar zu machen?**
+
+Mein Ansatz betont das Engineering-System rund um das Modell, nicht nur die Intelligenz des Modells selbst.
+
+| Prinzip | Mein Ansatz |
+|---|---|
+| Trennung der Autorität | Modelle schlagen Aktionen vor; deterministische Runtime-Komponenten setzen Berechtigungen und Einschränkungen durch. |
+| Verifikation vor Vertrauen | Erfolgreicher Abschluss erfordert Beweise, nicht nur eine überzeugende Modellantwort. |
+| Explizite Invarianten | Wichtige Sicherheits- und Korrektheitseigenschaften sollten durchgesetzt und getestet werden. |
+| Begrenzte Autonomie | Werkzeugzugriff, Ausführung, Wiederholungen, Ressourcenverbrauch und Genehmigungen brauchen definierte Grenzen. |
+| Beobachtbare Ausführung | Agentenverhalten sollte nützliche operative Beweise für Debugging und Evaluation erzeugen. |
+| Evidenzgetriebene Evolution | Verbesserungen sollten anhand messbarer Ergebnisse bewertet werden, statt als vorteilhaft angenommen zu werden. |
+| Inkrementelles Engineering | Praktische, testbare Fähigkeiten aufbauen, bevor zusätzliche architektonische Komplexität eingeführt wird. |
+
+Ich interessiere mich für die Schnittstelle von autonomen Agenten, Softwarearchitektur, Runtime-Governance, verifikationsgetriebenem Development und selbstverbessernden KI-Systemen.
+
+---
+
+## 🚀 Ausgewählte Projekte
+
+### 1. ⚒️ CodeForge-v2
+
+**Gesteuerter autonomer Software-Engineering-Agent**
+
+[![Repository](https://img.shields.io/badge/Repository-CodeForge--v2-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008/CodeForge-v2)
+
+Mein Hauptprojekt erforscht die Engineering-Grundlagen, die notwendig sind, um autonome Coding-Agenten zuverlässiger und kontrollierbarer zu machen.
+
+Schwerpunkte sind unter anderem:
+
+- Agenten-Orchestrierung und Werkzeugausführung.
+- Deterministische Runtime-Governance.
+- Task-Graphen und explizites Zustandsmanagement.
+- Richtliniendurchsetzung und menschliche Genehmigung.
+- Verifikations- und Abschluss-Gates.
+- Ausführungshistorie, Beobachtbarkeit und Recovery.
+- Eine langfristige Architektur für kontrollierte Selbstentwicklung.
+
+**Vision:** Von KI-unterstützter Programmierung hin zu autonomem Engineering mit expliziter Kontrolle, verifizierbaren Ergebnissen und einer Grundlage für kontinuierliche Verbesserung.
+
+### 2. 📈 Quant-Trading-2
+
+**Quantitative Forschung · Maschinelles Lernen · Algorithmischer Handel**
+
+[![Repository](https://img.shields.io/badge/Repository-Quant--Trading--2-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008/Quant-Trading-2)
+
+Dieses Projekt spiegelt mein Interesse wider, Datenanalyse und maschinelles Lernen auf quantitative Handelsforschung anzuwenden.
+
+Meine Arbeit in diesem Bereich umfasst die Erforschung der Beziehung zwischen Marktdaten, Handelsstrategien, statistischen Beweisen und systematischer Evaluation.
+
+Zentrale Interessensgebiete:
+
+- Analyse finanzieller Zeitreihen.
+- Maschinelles Lernen für Handelsforschung.
+- Strategieevaluation und Backtesting.
+- Out-of-Sample-Validierung.
+- Walk-Forward-Tests und Robustheitsanalyse.
+- Risikomanagement und evidenzbasierte Strategieauswahl.
+- Reduktion von Overfitting und irreführenden Performance-Schätzungen.
+
+**Forschungsprinzip:** Eine Strategie, die auf historischen Daten gut abschneidet, ist eine zu untersuchende Hypothese — kein Beweis für einen dauerhaften Handelsvorteil.
+
+### 3. 🗓️ My Time Manager
+
+**Persönliche Produktivität · Flutter · Dart · KI-unterstützte Workflows**
+
+[![Repository](https://img.shields.io/badge/Repository-My%20Time%20Manager-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008/my_time_manager)
+
+Eine Erkundung eines persönlichen Produktivitätssystems, das Planung, Wissensmanagement, Gewohnheiten und KI-unterstützte Workflows in einer Anwendung vereint.
+
+Die breitere Vision umfasst:
+
+- Notizen und persönliches Wissensmanagement.
+- Ziele, Planung und Zeitallokation.
+- Habit-Tracking und Erinnerungen.
+- Lernen und KI-unterstützte Inhaltserstellung.
+- Einen deterministischen Anwendungskern mit optionalen KI-Fähigkeiten.
+
+Dieses Projekt erkundet eine weitere Seite meiner Engineering-Interessen: komplexe Workflows in praktische Software zu übersetzen und dabei das Kernverhalten vorhersagbar und wartbar zu halten.
+
+---
+
+## 🛠️ Technische Interessen
+
+### KI & Intelligente Systeme
+
+- Autonome KI-Agenten und Agent-Harnesses
+- LLM-Tool-Nutzung und Orchestrierung
+- Lokale LLMs und Modellintegration
+- Retrieval und Context Engineering
+- Agentenevaluation und Benchmarking
+- Kontrollierte Selbstverbesserung
+- KI-unterstütztes Software-Engineering
+
+### Software Engineering
+
+- TypeScript und Node.js
+- Python und maschinelles Lernen
+- Dart und Flutter
+- Softwarearchitektur und modulares Design
+- Zustandsmaschinen und deterministische Systeme
+- Design by Contract
+- Invarianten-getriebenes Development
+- Verifikations-getriebenes Development
+- Runtime-Governance und Ausführungssicherheit
+
+### Quantitative Forschung
+
+- Datenanalyse und maschinelles Lernen
+- Algorithmischer Handel
+- MQL5 und MetaTrader 5
+- Backtesting und Walk-Forward-Evaluation
+- Statistische Validierung
+- Strategierobustheit und Risikomanagement
+
+### Entwicklungsumgebungen
+
+- Git und GitHub
+- Visual Studio Code
+- Ollama und lokale KI-Workflows
+- Windows- und Linux-Umgebungen
+- Automatisiertes Testen und Entwicklungswerkzeuge
+
+---
+
+## 🧭 Was ich als Nächstes erkunde
+
+Meine langfristige Forschungsrichtung ist zu verstehen, wie ein KI-Engineering-System sich selbst verbessern kann, ohne Zuverlässigkeit oder Kontrolle zu opfern.
+
+Besonders interessieren mich folgende Bereiche:
+
+**01 — Bessere Engineering-Intelligenz**  
+Verbesserung des Repository-Verständnisses, der Aufgabenzerlegung, der Kontextauswahl, der Planung und der Fehlerdiagnose, damit Agenten sinnvolle Engineering-Aufgaben effektiver lösen können.
+
+**02 — Zuverlässige autonome Ausführung**  
+Aufbau stärkerer Feedback-Schleifen rund um Werkzeugausführung, Verifikation, Fehler-Recovery und Aufgabenabschluss.
+
+**03 — Evidenzbasierte Selbstverbesserung**  
+Untersuchung, wie ein Agent Fähigkeitslücken identifizieren, Verbesserungs-Hypothesen formulieren, kontrollierte Experimente durchführen und Verbesserungen nur behalten kann, wenn die Evaluation sie stützt.
+
+**04 — Effiziente KI-Infrastruktur**  
+Erforschung von Modell-Routing, lokaler Inferenz, Kontexteffizienz, Retrieval und anderen Ansätzen, die praktische Fähigkeiten unter begrenzten Rechenressourcen verbessern.
+
+**05 — Gesteuerte selbstentwickelnde Systeme**  
+Entwicklung der architektonischen Grundlagen für einen Agenten, der seine eigenen Komponenten verbessern kann und dabei explizite Autoritätsgrenzen, testbare Invarianten und unabhängige Verifikation bewahrt.
+
+Mein Ansatz ist, zuerst zuverlässige Engineering-Fähigkeiten aufzubauen und die Autonomie erst dann zu erweitern, wenn das System sie durch Beweise verdient hat.
+
+---
+
+## 💡 Wie ich über KI-Agenten denke
+
+Ich glaube, der nächste Schritt im KI-Engineering besteht nicht einfach darin, Modellen mehr Werkzeuge oder längere Kontexte zu geben.
+
+Es geht darum, Systeme zu bauen, in denen Intelligenz, Ausführung, Verifikation und Autorität bewusst getrennt sind.
+
+Ein Agent sollte in der Lage sein, eine anspruchsvolle Lösung vorzuschlagen, ohne automatisch die Erlaubnis zu erhalten, sie auszuführen. Er sollte Fortschritte berichten können, ohne erfolgreichen Abschluss erfinden zu dürfen. Und er sollte Verbesserungen an sich selbst vorschlagen können, ohne einseitig die Regeln neu zu definieren, die diese Verbesserungen regeln.
+
+Das ist die Richtung, die ich mit CodeForge-v2 erkunde.
+
+**Das Ziel ist nicht Autonomie um jeden Preis. Es ist die Steigerung von Fähigkeiten bei gleichzeitiger Bewahrung von Kontrolle.**
+
+---
+
+## 🤝 Lass uns vernetzen
+
+Ich interessiere mich für den Austausch mit Menschen, die an folgenden Themen arbeiten:
+
+- KI-Engineering und autonome Coding-Agenten.
+- Agent-Harnesses und Runtime-Architektur.
+- KI-Sicherheitsengineering und kontrollierte Autonomie.
+- Selbstverbessernde Systeme und Agentenevaluation.
+- Maschinelles Lernen und quantitative Forschung.
+- Open-Source-Engineering-Werkzeuge.
+
+Wenn du an ähnlichen Problemen arbeitest, würde ich mich freuen, Ideen auszutauschen und von deiner Arbeit zu lernen.
+
+<div align="center">
+
+### Intelligent bauen. Rigoros verifizieren. Verantwortungsvoll entwickeln.
+
+**Danke für deinen Besuch auf meinem Profil!** ⭐
+
+</div>
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary><h3>🇻🇳 Tiếng Việt</h3></summary>
+
+<br>
 
 <div align="center">
 
@@ -506,250 +760,4 @@ Nếu bạn đang khám phá những vấn đề tương tự, tôi rất vui đ
 
 </div>
 
----
-
-<br><br>
-
-<a id="-deutsch"></a>
-
-<div align="center">
-
-# Hallo, ich bin Dien Vu 👋
-
-### AI-Ingenieur · Autonome Agentensysteme · Quantitative Forschung
-
-**Ich baue KI-Systeme, die nicht nur Lösungen generieren — sondern sie entwerfen, verifizieren und verbessern.**
-
-Ich bin ein unabhängiger Entwickler mit Interesse an KI-Engineering, autonomer Softwareentwicklung, maschinellem Lernen, quantitativer Forschung und zuverlässigen intelligenten Systemen.
-
-Mein aktueller Schwerpunkt ist **CodeForge-v2** — ein laufendes Vorhaben zum Aufbau eines gesteuerten autonomen Software-Engineering-Agenten und langfristig eines selbstentwickelnden Engineering-Systems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dienvu1008-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008)
-[![AI Agents](https://img.shields.io/badge/Focus-AI%20Agents-6E56CF?style=flat-square)](https://github.com/Dienvu1008/CodeForge-v2)
-[![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-0A9396?style=flat-square)](https://github.com/Dienvu1008/Quant-Trading-2)
-
-</div>
-
----
-
-## 🧠 Woran ich arbeite
-
-### CodeForge-v2 — Auf dem Weg zu gesteuertem autonomem Engineering
-
-**Mein Hauptprojekt und technischer Schwerpunkt.**
-
-🔗 **[CodeForge-v2 erkunden](https://github.com/Dienvu1008/CodeForge-v2)**
-
-Ich baue einen autonomen Software-Engineering-Agenten, der über reine Codegenerierung hinausgeht.
-
-Die langfristige Vision ist ein System, das Engineering-Aufgaben verstehen, Codebasen untersuchen, Implementierungen planen, Code ändern, Werkzeuge ausführen, Ergebnisse validieren, von Fehlern wiederherstellen und seine eigenen Fähigkeiten unter expliziter Governance verbessern kann.
-
-Die zentrale Idee ist einfach:
-
-> **LLMs schlagen vor. Deterministische Systeme entscheiden über Autorität. Verifikation bestimmt den Abschluss.**
-
-Anstatt sich vollständig auf das Urteil eines LLMs zu verlassen, basiert CodeForge-v2 auf einem deterministischen Governance-Kernel, der kontrolliert, wie der Agent mit seiner Umgebung interagiert.
-
-**Zentrale Engineering-Prinzipien:**
-
-- 🛡️ **Gesteuerte Autonomie** — KI-Fähigkeiten operieren innerhalb klarer Richtlinien, Berechtigungen, Genehmigungsgrenzen und Ausführungsbeschränkungen.
-- ⚙️ **Deterministische Durchsetzung** — Kritische Ausführungsentscheidungen liegen bei Runtime-Komponenten, nicht bei uneingeschränkten modellgenerierten Anweisungen.
-- 🧩 **Aufgaben- und Ausführungsintegrität** — Explizite Task-Graphen, Zustandsübergänge, Checkpoints und kontrollierte Werkzeugausführung.
-- 🔍 **Evidenzbasierte Verifikation** — Unterscheidung zwischen der Erfolgsbehauptung eines Modells und Ergebnissen, die durch tatsächliche Ausführung und Verifikationsbeweise gestützt werden.
-- 📜 **Beobachtbarkeit und Provenienz** — Aufzeichnung von Ausführungsereignissen und relevanten Beweisen zur Unterstützung von Debugging, Auditing und Recovery.
-- 🔄 **Kontrollierte Selbstentwicklung** — Erforschung, wie ein Agent seine eigenen Engineering-Fähigkeiten bewerten und verbessern kann, ohne seine Governance-Grenzen zu überschreiten.
-
-Das langfristige Ziel ist es, CodeForge von einem autonomen Coding-Agenten zu einem **gesteuerten, selbstverbessernden Engineering-System** weiterzuentwickeln.
-
-Selbstentwicklung ist eine Forschungs- und Entwicklungsrichtung, keine Behauptung, dass uneingeschränkte oder vollständig autonome Selbstverbesserung bereits erreicht wurde.
-
----
-
-## 🔬 Meine Engineering-Philosophie
-
-Mich interessiert besonders eine grundlegende Frage:
-
-**Wie können wir KI-Agenten fähiger machen, ohne sie weniger kontrollierbar zu machen?**
-
-Mein Ansatz betont das Engineering-System rund um das Modell, nicht nur die Intelligenz des Modells selbst.
-
-| Prinzip | Mein Ansatz |
-|---|---|
-| Trennung der Autorität | Modelle schlagen Aktionen vor; deterministische Runtime-Komponenten setzen Berechtigungen und Einschränkungen durch. |
-| Verifikation vor Vertrauen | Erfolgreicher Abschluss erfordert Beweise, nicht nur eine überzeugende Modellantwort. |
-| Explizite Invarianten | Wichtige Sicherheits- und Korrektheitseigenschaften sollten durchgesetzt und getestet werden. |
-| Begrenzte Autonomie | Werkzeugzugriff, Ausführung, Wiederholungen, Ressourcenverbrauch und Genehmigungen brauchen definierte Grenzen. |
-| Beobachtbare Ausführung | Agentenverhalten sollte nützliche operative Beweise für Debugging und Evaluation erzeugen. |
-| Evidenzgetriebene Evolution | Verbesserungen sollten anhand messbarer Ergebnisse bewertet werden, statt als vorteilhaft angenommen zu werden. |
-| Inkrementelles Engineering | Praktische, testbare Fähigkeiten aufbauen, bevor zusätzliche architektonische Komplexität eingeführt wird. |
-
-Ich interessiere mich für die Schnittstelle von autonomen Agenten, Softwarearchitektur, Runtime-Governance, verifikationsgetriebenem Development und selbstverbessernden KI-Systemen.
-
----
-
-## 🚀 Ausgewählte Projekte
-
-### 1. ⚒️ CodeForge-v2
-
-**Gesteuerter autonomer Software-Engineering-Agent**
-
-[![Repository](https://img.shields.io/badge/Repository-CodeForge--v2-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008/CodeForge-v2)
-
-Mein Hauptprojekt erforscht die Engineering-Grundlagen, die notwendig sind, um autonome Coding-Agenten zuverlässiger und kontrollierbarer zu machen.
-
-Schwerpunkte sind unter anderem:
-
-- Agenten-Orchestrierung und Werkzeugausführung.
-- Deterministische Runtime-Governance.
-- Task-Graphen und explizites Zustandsmanagement.
-- Richtliniendurchsetzung und menschliche Genehmigung.
-- Verifikations- und Abschluss-Gates.
-- Ausführungshistorie, Beobachtbarkeit und Recovery.
-- Eine langfristige Architektur für kontrollierte Selbstentwicklung.
-
-**Vision:** Von KI-unterstützter Programmierung hin zu autonomem Engineering mit expliziter Kontrolle, verifizierbaren Ergebnissen und einer Grundlage für kontinuierliche Verbesserung.
-
-### 2. 📈 Quant-Trading-2
-
-**Quantitative Forschung · Maschinelles Lernen · Algorithmischer Handel**
-
-[![Repository](https://img.shields.io/badge/Repository-Quant--Trading--2-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008/Quant-Trading-2)
-
-Dieses Projekt spiegelt mein Interesse wider, Datenanalyse und maschinelles Lernen auf quantitative Handelsforschung anzuwenden.
-
-Meine Arbeit in diesem Bereich umfasst die Erforschung der Beziehung zwischen Marktdaten, Handelsstrategien, statistischen Beweisen und systematischer Evaluation.
-
-Zentrale Interessensgebiete:
-
-- Analyse finanzieller Zeitreihen.
-- Maschinelles Lernen für Handelsforschung.
-- Strategieevaluation und Backtesting.
-- Out-of-Sample-Validierung.
-- Walk-Forward-Tests und Robustheitsanalyse.
-- Risikomanagement und evidenzbasierte Strategieauswahl.
-- Reduktion von Overfitting und irreführenden Performance-Schätzungen.
-
-**Forschungsprinzip:** Eine Strategie, die auf historischen Daten gut abschneidet, ist eine zu untersuchende Hypothese — kein Beweis für einen dauerhaften Handelsvorteil.
-
-### 3. 🗓️ My Time Manager
-
-**Persönliche Produktivität · Flutter · Dart · KI-unterstützte Workflows**
-
-[![Repository](https://img.shields.io/badge/Repository-My%20Time%20Manager-181717?style=flat-square&logo=github)](https://github.com/Dienvu1008/my_time_manager)
-
-Eine Erkundung eines persönlichen Produktivitätssystems, das Planung, Wissensmanagement, Gewohnheiten und KI-unterstützte Workflows in einer Anwendung vereint.
-
-Die breitere Vision umfasst:
-
-- Notizen und persönliches Wissensmanagement.
-- Ziele, Planung und Zeitallokation.
-- Habit-Tracking und Erinnerungen.
-- Lernen und KI-unterstützte Inhaltserstellung.
-- Einen deterministischen Anwendungskern mit optionalen KI-Fähigkeiten.
-
-Dieses Projekt erkundet eine weitere Seite meiner Engineering-Interessen: komplexe Workflows in praktische Software zu übersetzen und dabei das Kernverhalten vorhersagbar und wartbar zu halten.
-
----
-
-## 🛠️ Technische Interessen
-
-### KI & Intelligente Systeme
-
-- Autonome KI-Agenten und Agent-Harnesses
-- LLM-Tool-Nutzung und Orchestrierung
-- Lokale LLMs und Modellintegration
-- Retrieval und Context Engineering
-- Agentenevaluation und Benchmarking
-- Kontrollierte Selbstverbesserung
-- KI-unterstütztes Software-Engineering
-
-### Software Engineering
-
-- TypeScript und Node.js
-- Python und maschinelles Lernen
-- Dart und Flutter
-- Softwarearchitektur und modulares Design
-- Zustandsmaschinen und deterministische Systeme
-- Design by Contract
-- Invarianten-getriebenes Development
-- Verifikations-getriebenes Development
-- Runtime-Governance und Ausführungssicherheit
-
-### Quantitative Forschung
-
-- Datenanalyse und maschinelles Lernen
-- Algorithmischer Handel
-- MQL5 und MetaTrader 5
-- Backtesting und Walk-Forward-Evaluation
-- Statistische Validierung
-- Strategierobustheit und Risikomanagement
-
-### Entwicklungsumgebungen
-
-- Git und GitHub
-- Visual Studio Code
-- Ollama und lokale KI-Workflows
-- Windows- und Linux-Umgebungen
-- Automatisiertes Testen und Entwicklungswerkzeuge
-
----
-
-## 🧭 Was ich als Nächstes erkunde
-
-Meine langfristige Forschungsrichtung ist zu verstehen, wie ein KI-Engineering-System sich selbst verbessern kann, ohne Zuverlässigkeit oder Kontrolle zu opfern.
-
-Besonders interessieren mich folgende Bereiche:
-
-**01 — Bessere Engineering-Intelligenz**  
-Verbesserung des Repository-Verständnisses, der Aufgabenzerlegung, der Kontextauswahl, der Planung und der Fehlerdiagnose, damit Agenten sinnvolle Engineering-Aufgaben effektiver lösen können.
-
-**02 — Zuverlässige autonome Ausführung**  
-Aufbau stärkerer Feedback-Schleifen rund um Werkzeugausführung, Verifikation, Fehler-Recovery und Aufgabenabschluss.
-
-**03 — Evidenzbasierte Selbstverbesserung**  
-Untersuchung, wie ein Agent Fähigkeitslücken identifizieren, Verbesserungs-Hypothesen formulieren, kontrollierte Experimente durchführen und Verbesserungen nur behalten kann, wenn die Evaluation sie stützt.
-
-**04 — Effiziente KI-Infrastruktur**  
-Erforschung von Modell-Routing, lokaler Inferenz, Kontexteffizienz, Retrieval und anderen Ansätzen, die praktische Fähigkeiten unter begrenzten Rechenressourcen verbessern.
-
-**05 — Gesteuerte selbstentwickelnde Systeme**  
-Entwicklung der architektonischen Grundlagen für einen Agenten, der seine eigenen Komponenten verbessern kann und dabei explizite Autoritätsgrenzen, testbare Invarianten und unabhängige Verifikation bewahrt.
-
-Mein Ansatz ist, zuerst zuverlässige Engineering-Fähigkeiten aufzubauen und die Autonomie erst dann zu erweitern, wenn das System sie durch Beweise verdient hat.
-
----
-
-## 💡 Wie ich über KI-Agenten denke
-
-Ich glaube, der nächste Schritt im KI-Engineering besteht nicht einfach darin, Modellen mehr Werkzeuge oder längere Kontexte zu geben.
-
-Es geht darum, Systeme zu bauen, in denen Intelligenz, Ausführung, Verifikation und Autorität bewusst getrennt sind.
-
-Ein Agent sollte in der Lage sein, eine anspruchsvolle Lösung vorzuschlagen, ohne automatisch die Erlaubnis zu erhalten, sie auszuführen. Er sollte Fortschritte berichten können, ohne erfolgreichen Abschluss erfinden zu dürfen. Und er sollte Verbesserungen an sich selbst vorschlagen können, ohne einseitig die Regeln neu zu definieren, die diese Verbesserungen regeln.
-
-Das ist die Richtung, die ich mit CodeForge-v2 erkunde.
-
-**Das Ziel ist nicht Autonomie um jeden Preis. Es ist die Steigerung von Fähigkeiten bei gleichzeitiger Bewahrung von Kontrolle.**
-
----
-
-## 🤝 Lass uns vernetzen
-
-Ich interessiere mich für den Austausch mit Menschen, die an folgenden Themen arbeiten:
-
-- KI-Engineering und autonome Coding-Agenten.
-- Agent-Harnesses und Runtime-Architektur.
-- KI-Sicherheitsengineering und kontrollierte Autonomie.
-- Selbstverbessernde Systeme und Agentenevaluation.
-- Maschinelles Lernen und quantitative Forschung.
-- Open-Source-Engineering-Werkzeuge.
-
-Wenn du an ähnlichen Problemen arbeitest, würde ich mich freuen, Ideen auszutauschen und von deiner Arbeit zu lernen.
-
-<div align="center">
-
-### Intelligent bauen. Rigoros verifizieren. Verantwortungsvoll entwickeln.
-
-**Danke für deinen Besuch auf meinem Profil!** ⭐
-
-</div>
+</details>

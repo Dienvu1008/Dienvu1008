@@ -6,14 +6,12 @@
 
 <br>
 
-**Language / Ngôn ngữ / Sprache**
-
 </div>
 
 ---
 
 <details open>
-<summary><h2>🇬🇧 English</h2></summary>
+<summary><h3>🇬🇧 English</h3></summary>
 
 <br>
 
@@ -264,7 +262,7 @@ If you're exploring similar problems, I'd be happy to exchange ideas and learn f
 ---
 
 <details>
-<summary><h2>🇩🇪 Deutsch</h2></summary>
+<summary><h3>🇩🇪 Deutsch</h3></summary>
 
 <br>
 
@@ -515,7 +513,7 @@ Wenn du an ähnlichen Problemen arbeitest, würde ich mich freuen, Ideen auszuta
 ---
 
 <details>
-<summary><h2>🇻🇳 Tiếng Việt</h2></summary>
+<summary><h3>🇻🇳 Tiếng Việt</h3></summary>
 
 <br>
 
